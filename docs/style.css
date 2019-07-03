@@ -1,0 +1,45 @@
+html{
+    text-align: center; 
+    font-size: 15px;
+    background-image: url("jjjjj.jpg");
+    background-color: #af6161;
+    background-repeat:no-repeat;
+    background-size: cover; /* Resize the background image to cover the entire container */}
+
+  body{
+    padding: 20;
+    background-color: rgba(227, 227, 227, 0.315);
+    width: 60%;
+        margin: auto;
+        min-height: 700px;}
+
+  a{
+    text-decoration: none; 
+    padding: 10px;
+    color: black;
+    font-size: 10px}
+
+  a:hover{
+    border-bottom: 2px solid black}
+
+  p{
+    font-size: 20px}
+
+
+  a{
+    font-size: 20px}
+
+
+  img{
+
+    background-image: url("photographer.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 100%; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */}
+
+   img{
+
+    height: 300px;
+   }
